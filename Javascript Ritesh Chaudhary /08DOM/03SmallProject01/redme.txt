@@ -1,0 +1,1 @@
+In this project we will study two new function setInteval and SetTimeout...and make a counter through it...which will count our linkedin follower..
