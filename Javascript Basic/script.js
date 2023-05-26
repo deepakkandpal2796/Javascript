@@ -433,4 +433,3 @@ console.log(myFriend.age) // o/p: 25
 //# but when we pass the object in the function and there is any changes in that argument in the function so those changes will reflect in the object also. This is what we call passing the value by refrence.
 
  
-
